@@ -2,4 +2,6 @@ name: Mark Kirkpatrick
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+
 paginate: 2
+paginate_path: "/blog/page:num/"
