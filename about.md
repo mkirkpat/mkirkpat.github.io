@@ -1,6 +1,6 @@
 ---
-Layout: default
-Title:  "About Mark Kirkpatrick"
+layout: default
+title:  "About Mark Kirkpatrick"
 permalink:  "/about"
 ---
 <h1>{{ page.title }}</h1>
