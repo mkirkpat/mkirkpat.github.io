@@ -3,5 +3,5 @@ markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
 
-paginate: 1
+paginate: 2
 paginate_path: "blog/:num"
