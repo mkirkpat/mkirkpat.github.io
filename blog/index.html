@@ -9,3 +9,7 @@ title: Mark Kirkpatrick's Blog
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
+{{ paginator.page }}         - page number
+{{ paginator.total_posts }}
+{{ paginator.total_pages }}
+{{ paginator.per_page }}
