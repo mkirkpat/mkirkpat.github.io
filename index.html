@@ -7,16 +7,12 @@ title: Mark Kirkpatrick test
 			<p>Placeholder for home page content</p>
     		</div><!-- /.blurb -->
 
-<!-- Pagination links -->
-<nav class="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-      <a href="/" class="previous">&laquo;</a>
-    {% else %}
-      <a href="/page" class="previous">&laquo;</a>
-    {% endif %}
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="/page" class="next ">&raquo;</a>
-  {% endif %}
-</nav>
+<h2>Blog posts</h2>
+<p>These are the posts</p>
+
+{% for post in site.posts %}
+  <a href="{{ post.url }}">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.date | date_to_string }}</h2>
+  </a>
+{% endfor %}
