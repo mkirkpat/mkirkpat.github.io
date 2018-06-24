@@ -1,7 +1,7 @@
 name: Mark Kirkpatrick
 markdown: kramdown
 
-baseurl:  mkirkpat.github.io
+baseurl:  /mkirkpat.github.io
 permalink: /blog/:year/:month/:day/:title
 
 paginate: 5
