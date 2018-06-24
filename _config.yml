@@ -1,6 +1,7 @@
 name: Mark Kirkpatrick
 markdown: kramdown
 
+baseurl:  /mkirkpat
 permalink: /blog/:year/:month/:day/:title
 
 paginate: 5
