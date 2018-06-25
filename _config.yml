@@ -3,6 +3,7 @@ markdown: kramdown
 
 baseurl:  /mkirkpat.github.io
 permalink: /blog/:year/:month/:day/:title
+imagepath: ../images/
 
 paginate: 5
 paginate_path: "blog/:num"
