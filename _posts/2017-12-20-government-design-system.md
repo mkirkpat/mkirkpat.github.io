@@ -2,7 +2,7 @@
 layout: post
 title: "Design for life - a government design system"
 subheading: "Creating conditions where people can easily use familiar, tested, trusted patterns interacting with government services."
-image: ../images/wire-bg.jpg
+image: wire-bg.jpg
 date: 2017-12-20
 ---
 
