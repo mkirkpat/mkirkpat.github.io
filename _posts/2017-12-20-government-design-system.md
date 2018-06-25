@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Design for life - a government design system"
+subheading: "Creating conditions where people can easily use familiar, tested, trusted patterns interacting with government services."
 date: 2017-12-20
 ---
 
