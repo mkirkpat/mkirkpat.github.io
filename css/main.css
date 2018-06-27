@@ -547,6 +547,7 @@ h2.subheading{
 .post-nav{
   display: flex;
   justify-content: space-between;
+    padding:30px;
 }
 
 
