@@ -30,17 +30,19 @@ layout: default
     <hr>
 
 
-<div id="post-nav">
-    <div >    
+<nav class="post-nav">
+    <div class="post-nav__prev">    
         {% if page.previous.url %}
         <a class="prev" href="{{page.previous.url}}">
             <span>&lt; {{page.previous.title}}</span>
         </a> 
-        {% endif %} 
+        {% endif %}
+ </div>
+ <div class="post-nav__next">  
         {% if page.next.url %} 
         <a class="next" href="{{page.next.url}}">
             <span>{{page.next.title}} &gt;</span>
         </a> 
         {% endif %} 
     </div>
-</div>
+</nav>
