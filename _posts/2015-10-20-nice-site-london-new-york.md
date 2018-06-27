@@ -2,7 +2,7 @@
 layout: post
 title: "Nice sites - London and New York"
 image: head-img-guy-pen.jpg
-subtitle  "A look at some creative, engaging platforms across the web."
+subtitle:  "A look at some creative, engaging platforms across the web."
 date: 2015-10-20
 ---
 Nothing stands still, particularly in online and accordingly, it is important for anyone involved in digital communications to be looking at best practice in trends, technologies with a view to taking learning and delivering great experiences for users.
