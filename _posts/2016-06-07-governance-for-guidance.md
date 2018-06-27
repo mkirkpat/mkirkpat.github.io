@@ -6,34 +6,48 @@ image: governance.jpg
 date: 2016-06-08
 ---
 
-TTTESSTLooking at government as a digital service from a user point of view, you could argue it is disjointed in parts, and does not inspire trust in terms of design consistency and consequently consistency in experience across its many use cases.
 
-![various button interface elements from various New Zealand government applications - all visually, compositionally strikingly different]({{ site.baseurl }}/images/gov-inconsistencies.jpg) <span class="caption text-muted">Button interface elements from various NZ government applications - all different</span>
 
-It’s a common problem – not just of government digital services, but also of many enterprise sized organisations.
+I’ve recently attended some great user forums around the launch of key government digital services in New Zealand. As with all these types of forums, there are frank and open discussions about service delivery for citizens across the country.
 
-It is a problem we are currently looking to address in exploring the validity and viability of a design system for New Zealand government - so users can use familiar patterns to achieve results in interacting with government, no matter what vessel(s) of government their interaction touches upon.
+During presentations on a proposed governance model for new services, a question was asked as to why time was being spent on sounding out governance models during a beta stage of an initiative.
 
-## Government pattern library
+This scenario is but one example of a common misunderstanding around governance; that it is unnecessary or hindering in the rough and tumble of user research, prototyping, developing, designing out digital services that meet needs.
 
-In the ethos of starting small, we are currently exploring building out a common design pattern library – solving some user problems such as:
+I want to outline how good governance is inextricably linked to user-centricity and quality and it is important to start developing it out early in the process of any digital service build as it helps maintain focus on service/product goals grounded in user needs.
 
-*   inconsistent experiences ‘getting stuff done’ with government
-*   User Interfaces of varying quality (lean, accessible etc.)
-*   no standard wordings (user confusion, not ‘making it easy’, transparency)
+I’ll also provide some pointers and practical tips as to how you can start this process.
 
-There are of course also other benefits for already stretched digital teams across government including:
+## Quality control
 
-*   less ‘reinventing the wheel’ in building common interaction interfaces (resource implications)
-*   baking in quality – e.g. semantic, accessible code bases meeting obligations and user expectations
-*   speeding up ‘time to market’ - prototyping quickly
-*   freeing up time to focus on personalisation , digital marketing etc.
-*   faster on-boarding for new team members
+Digital governance has been described as ["all of the policies and procedures which…is the supervision behind the management"](http://monsido.com/what-is-web-governance/ "web governance article") of a digital service. Indeed this is true, but it should also be stressed that establishing governance structures, processes early can play a crucial part in ensuring that quality heralded at inception is maintained as the digital product/service evolves.
 
-## Next steps
+Building out agreed frameworks of control and ownership also helps digital teams 'protect the user' in preventing digital service standards getting hijacked by politics and internal wrangles.
 
-Work is in its early stages, but already we’ve had some really interesting discussions with government agencies, looking to reuse some initial work already done.
+![paper prototype]({{ site.baseurl }}/images/guidance.jpg) <span class="caption text-muted">Begin the process of formulating agreed governance early in any digital project cycle.</span>
 
-Next steps could include building out a current sub-set of patterns on govt.nz - refreshing, adding to this library so it is valued and used, sponsored and promoted.
+## Engagement
 
-It is important that active communities across government are part of this process. Our ultimate focus will remain on ensuring that users in different contexts can ultimately access, use and engage with government services – and that interaction can be ‘delightful’, easy and seamless where it needs to be.
+Building frameworks for governance should include regular consultations and forums with senior management (across hierarchical organisations) and practitioners alike - particularly those 'at the coalface' of publishing, building the digital experience.
+
+As the example starter paper (download below) outlines, these structures can take the form of Steering Groups, Advisory Boards, Coordination Groups etc. - and these should meet frequently, with clear agenda items, actions points etc.
+
+> "A successful website needs a web governance framework in place that defines its role and management."
+> 
+> <footer>[Paul Boag](https://boagworld.com/digital-transformation/web-governance/ "Paul Boag")</footer>
+
+Such forums encourage a culture of collaboration and sharing across organisations and provide opportunities to communicate work across departments.
+
+## Saving time
+
+These agreed models should also afford digital service teams time to meaningfully reach out to their communities of users and engage regularly to ascertain changing needs.
+
+Accordingly, savvy organisations ensure that governance structures are in place and embedded early. As Paul Boag states, without time for ["strategic thinking, visionary leadership and a clear roadmap, even the best web team will fail to produce a sustainable website"](https://boagworld.com/digital-transformation/web-governance/ "Paul Boag") - governance should allow for this time by setting out clearly, roles, responsibilities around digital service delivery.
+
+## Sample starter paper
+
+So where can you start?…below is an example structure for a governance paper that should act as a 'starter for ten' for anyone wanting to flesh out. This is not supposed to be a set structure and of course is to be adapted as needed.
+
+It is also important to remember that your digital governance paper should be a living document, changing over time - agreed and communicated within (and out) clearly.
+
+[Download sample starter governance paper](http://www.markkirkpatrick.co.uk/assets/governance-paper-structure.docx "Sample governance paper").
