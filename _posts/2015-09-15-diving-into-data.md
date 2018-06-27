@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Diving into Data"
+subheading: "Drive user-centricity throughout an organisation by embedding and communicating analytics."
+image: post-data-bg.jpg
 date: 2015-09-15
 ---
 
@@ -22,7 +24,7 @@ Any work in digital content development that doesn’t have some insight into us
 
 Those user needs may be determined by a number of methods; analytics, audience research, user studies etc. – in fact most meaningful customer facing exercises should identify some user need, but it is analytics that I shall be focusing on in this short article.
 
-![person browsing on a phone](img/post-phone.jpg) <span class="caption text-muted">Do you know what percentage of your traffic is non-desktop? Are you changing your content accordingly?</span>
+![person browsing on a phone]({{ site.baseurl }}/images/post-phone.jpg) <span class="caption text-muted">Do you know what percentage of your traffic is non-desktop? Are you changing your content accordingly?</span>
 
 ## Make time to analyse
 
