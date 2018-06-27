@@ -8,7 +8,7 @@ date: 2017-12-20
 
 Looking at government as a digital service from a user point of view, you could argue it is disjointed in parts, and does not inspire trust in terms of design consistency and consequently consistency in experience across its many use cases.
 
-[various button interface elements from various New Zealand government applications - all visually, compositionally strikingly different]({{ site.baseurl }}/images/gov-inconsistencies.jpg) Button interface elements from various NZ government applications - all different
+! [various button interface elements from various New Zealand government applications - all visually, compositionally strikingly different]({{ site.baseurl }}/images/gov-inconsistencies.jpg) Button interface elements from various NZ government applications - all different
 
 It’s a common problem – not just of government digital services, but also of many enterprise sized organisations.
 
