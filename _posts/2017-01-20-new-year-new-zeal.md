@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "A new year, a new zeal"
+title: "A new zeal"
+subtitle: "Starting 2017 working with the all-of-government digital services team."
+image post-bg-whiteboard
 date: 2017-01-20
 ---
 
@@ -14,7 +16,7 @@ It is a really exciting time to be part of government service delivery, so I tho
 
 A plethora of user problems may at first seem insurmountable, until you start breaking them down to recognise recurrent themes, giving rise to identifiable achievable goals that can make a real positive impact.
 
-[![image of 4 people as a team making hand gestures](img/post-team.jpg) ](#) <span class="caption text-muted">Building a team with common purpose and clear goals</span>
+[![image of 4 people as a team making hand gestures]({{ site.baseurl }}/images/post-team.jpg) ](#) <span class="caption text-muted">Building a team with common purpose and clear goals</span>
 
 ## Strategise to energise
 
