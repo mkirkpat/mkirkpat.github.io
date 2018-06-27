@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Nice sites - London and New York"
+image: head-img-guy-pen.jpg
+subtitle  "A look at some creative, engaging platforms across the web."
 date: 2015-10-20
 ---
 Nothing stands still, particularly in online and accordingly, it is important for anyone involved in digital communications to be looking at best practice in trends, technologies with a view to taking learning and delivering great experiences for users.
@@ -15,7 +17,7 @@ The [Windmill Taverns Group](http://windmilltaverns.com/) run four successful pu
 
 The main central site houses salient information on the Group; its history and its people as well as acting as a central repository for events.
 
-[![](img/inpg-jacks.jpg) ](http://www.newyorker.com/) <span class="caption text-muted">The site oozes character and delivers effective overview of four distinct pubs under one umbrella company.</span> 
+[![]({{ site.baseurl }}/images/inpg-jacks.jpg) ](http://www.newyorker.com/) <span class="caption text-muted">The site oozes character and delivers effective overview of four distinct pubs under one umbrella company.</span> 
 
 Each tavern is represented distinctly, but consistently identifiable as a Windmill Taverns Group premise. Look and feel remains consistent throughout although sites are under their own urls, using different font-families etc.
 
@@ -33,7 +35,7 @@ Together with the effective use of social media channels the Group ensure that a
 
 Branding is clear, professional, while unusually and distinctly for an online magazine, the use of photography is minimal throughout; the site instead opting for quality illustrations to draw the eye to key content pieces.
 
-[![](img/new-yorker.jpg) ](http://www.newyorker.com/) <span class="caption text-muted">The New Yorker presents fonts professionally and in a distinctively creative manner.</span> 
+[![]({{ site.baseurl }}/images/new-yorker.jpg) ](http://www.newyorker.com/) <span class="caption text-muted">The New Yorker presents fonts professionally and in a distinctively creative manner.</span> 
 
 The sticky header on desktop scroll etc. means primary navigation remains in focus for the user without getting in the way of content at-hand.
 
