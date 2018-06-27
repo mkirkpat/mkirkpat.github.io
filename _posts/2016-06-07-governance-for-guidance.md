@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Design for life - a government design system"
-subheading: "Creating conditions where people can easily use familiar, tested, trusted patterns interacting with government services."
-image: wire-bg.jpg
-date: 2017-12-20
+title: "Governance for Guidance"
+subheading: "Begin to build and promote governance for your digital services."
+image: governance.jpg
+date: 2016-06-08
 ---
 
 TTTESSTLooking at government as a digital service from a user point of view, you could argue it is disjointed in parts, and does not inspire trust in terms of design consistency and consequently consistency in experience across its many use cases.
