@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Governance for Guidance"
+subtitle: "Begin to build and promote governance for your digital services"
+image:  governance.jpg
 date: 2016-06-08
 ---
 I’ve recently attended some great user forums around the launch of key government digital services in New Zealand. As with all these types of forums, there are frank and open discussions about service delivery for citizens across the country.
@@ -19,7 +21,7 @@ Digital governance has been described as ["all of the policies and procedures wh
 
 Building out agreed frameworks of control and ownership also helps digital teams 'protect the user' in preventing digital service standards getting hijacked by politics and internal wrangles.
 
-![paper prototype](img/guidance.jpg) <span class="caption text-muted">Begin the process of formulating agreed governance early in any digital project cycle.</span>
+![paper prototype]({{ site.baseurl }}/images/guidance.jpg) <span class="caption text-muted">Begin the process of formulating agreed governance early in any digital project cycle.</span>
 
 ## Engagement
 
@@ -45,4 +47,4 @@ So where can you start?…below is an example structure for a governance paper t
 
 It is also important to remember that your digital governance paper should be a living document, changing over time - agreed and communicated within (and out) clearly.
 
-[Download sample starter governance paper](assets/governance-paper-structure.docx "Sample governance paper").
+[Download sample starter governance paper](http://www.markkirkpatrick.co.uk/assets/governance-paper-structure.docx "Sample governance paper").
