@@ -544,6 +544,10 @@ h2.subheading{
     font-weight: 300;
     font-style: normal;
 }
+h3{
+position: relative;
+left:30px;
+}
 .post-nav{
   display: flex;
   justify-content: space-between;
