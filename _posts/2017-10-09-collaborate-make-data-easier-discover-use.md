@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Collaborating to make data easier to discover and use"
+subtitle: "Working together to deliver to common goals of making data release and use across New Zealand better for everyone."
+image: nasa-earth-bg
 date: 2017-10-09
 ---
 
@@ -46,7 +48,7 @@ Finally, as a wrap-up the workshop team mapped the various user types identified
 
 By the end of day two all were suitably tired, but positive about the work done, knowledge gleaned and ready to take things to the next level in improving things for data users and suppliers across New Zealand.
 
-[![whiteboard with post its gathered on day one](img/whiteboard.jpg) ](#) <span class="caption text-muted">Whiteboarding on day two</span>
+[![whiteboard with post its gathered on day one]({{ site.baseurl }}/images/whiteboard.jpg) ](#) <span class="caption text-muted">Whiteboarding on day two</span>
 
 ## The end of the beginning...
 
