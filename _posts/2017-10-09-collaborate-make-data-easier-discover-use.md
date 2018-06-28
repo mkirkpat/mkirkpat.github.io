@@ -2,7 +2,7 @@
 layout: post
 title: "Collaborating to make data easier to discover and use"
 subtitle: "Working together to deliver to common goals of making data release and use across New Zealand better for everyone."
-image: nasa-earth-bg
+image: nasa-earth-bg.jpg
 date: 2017-10-09
 ---
 
@@ -25,7 +25,7 @@ The first day of the Data Customer Insights workshop began with a brief meet, gr
 
 With an ‘all cards on the table’ approach, by the end of the day the workshop team had a fuller understanding of each other’s space - our user groups, the challenges faced - and a growing sense of the opportunities that a more ‘joined-up’ approach to solving common problems could offer.
 
-[![workshop team Mark Kirkpatrick,Cam Findlay, Rachel Davis etc.](img/workshop.jpg) ](#) <span class="caption text-muted">The workshop team on day one</span>
+[![workshop team Mark Kirkpatrick,Cam Findlay, Rachel Davis etc.]({{ site.baseurl }}/images/workshop.jpg) ](#) <span class="caption text-muted">The workshop team on day one</span>
 
 The teams left the workshop feeling energised and looking forward to the following day
 
