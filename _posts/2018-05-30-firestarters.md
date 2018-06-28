@@ -25,7 +25,7 @@ Initially, we ran a one week iteration to test how it could work. This involved 
 
 The idea pitcher owned the work and was responsible for delegating tasks etc., with a delivery team facilitating throughout. The teams updated everyone via stand-ups each morning, tracking progress and plans, talking through the work. The team demoed the work at the end of the sprint.
 
-![Pitching session with team members gathered around listening intently to speaker in front of whiteboard](img/firebreak-pitch-1.jpg) The pitching hour :)
+![Pitching session with team members gathered around listening intently to speaker in front of whiteboard]({{ site.baseurl }}/images/firebreak-pitch-1.jpg) The pitching hour :)
 
 ### Overall review
 
