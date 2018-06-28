@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Working through the phases, delivering a new data.govt.nz"
+subheading: "Working through the agile cycle"
+image: agile.jpg
 date: 2017-02-12
 ---
 
@@ -16,7 +18,7 @@ Data.govt.nz has been in place since 2009 and feedback, research gathered over t
 
 A discovery paper delivered in early 2016 brought all of this together, convincing the team sufficiently enough to go ahead and start exploring options, paths to addressing pain points identified therein for users. The team moved into alpha.
 
-[![data.govt team Mark Kirkpatrick,Cam Findlay, Rachel](img/data-crew.jpg) ](#) <span class="caption text-muted">The brill data.govt.nz team - I am happy here though you'd never know it :)</span>
+[![data.govt team Mark Kirkpatrick,Cam Findlay, Rachel]({{ site.baseurl }}/images/data-crew.jpg) ](#) <span class="caption text-muted">The brill data.govt.nz team - I am happy here though you'd never know it :)</span>
 
 ## Alpha fails
 
