@@ -2,14 +2,26 @@
 layout: default
 title: Mark Kirkpatrick test
 ---
-<div class="blurb">
-			<h1>Home page</h1>
-			<p>Placeholder for home page content</p>
-    		</div><!-- /.blurb -->
+ <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url({{ site.baseurl }}/images//home-bg.jpg)">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                        <h1><a href="https://plus.google.com/u/0/117086849216989266963"><img src="img/mk.jpg" alt="Mark Kirkpatrick" class="profile"></a></h1>
+                        <hr class="small">
+                        <span class="subheading">{{ page.subheading }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
+    <!-- Main Content -->
+    <div class="container page-content">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-<h2>Blog posts</h2>
-<p>These are the posts</p>
 
 {% for post in site.posts %}
   <a href="{{ post.url }}">
