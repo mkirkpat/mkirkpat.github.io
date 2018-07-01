@@ -7,6 +7,9 @@ permalink: /blog/:year/:month/:day/:title
 paginate: 5
 paginate_path: "blog/:num"
 
+gems:
+  - jekyll-last-modified-at
+
 defaults:
   # _posts
   - scope:
