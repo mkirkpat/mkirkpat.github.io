@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Diving into Data"
-subheading: "Drive user-centricity throughout an organisation by embedding and communicating analytics."
+title: Diving into Data
+subheading: Drive user-centricity throughout an organisation by embedding and communicating analytics.
 image: post-data-bg.jpg
 date: 2015-09-15
 ---
