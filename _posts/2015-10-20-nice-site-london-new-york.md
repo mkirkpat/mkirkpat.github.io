@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Nice sites - London and New York"
-subtitle:  "A look at some creative, engaging platforms across the web."
+title: Nice sites - London and New York
+subtitle:  A look at some creative, engaging platforms across the web. 
 image: head-img-guy-pen.jpg
 
 date: 2015-10-20
