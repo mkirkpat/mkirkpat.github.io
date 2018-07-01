@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Working through the phases, delivering a new data.govt.nz"
-subheading: "Working through the agile cycle"
+title: Working through the phases, delivering a new data.govt.nz
+subheading: Working through the agile cycle 
 image: agile.jpg
 date: 2017-02-12
 ---
