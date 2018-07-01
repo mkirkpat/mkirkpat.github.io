@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Firestarters"
+title: Firestarters
 subtitle: A first firebreak for New Zealand Government Information Services
 image: firebreak-bg.jpg
 date: 2018-05-30
