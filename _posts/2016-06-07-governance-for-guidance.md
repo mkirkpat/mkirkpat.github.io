@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Governance for Guidance"
-subheading: "Begin to build and promote governance for your digital services."
+title: Governance for Guidance
+subheading: Begin to build and promote governance for your digital services.
 image: governance.jpg
 date: 2016-06-08
 ---
