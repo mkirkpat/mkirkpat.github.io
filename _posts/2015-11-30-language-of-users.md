@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Language of Users"
-subheading: "Using tools to engage users on their terms"
+title: The Language of Users
+subheading: Using tools to engage users on their terms
 image: language-users.jpg
 date: 2015-11-30
 ---
