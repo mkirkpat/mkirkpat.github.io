@@ -1,6 +1,6 @@
 ---
 title: The Ides of March
-subtitle: this is a test
+subheading: this is a test
 permalink: /ides-of-march/
 published: true
 ---
