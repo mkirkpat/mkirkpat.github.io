@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collaborating to make data easier to discover and use
-subtitle: Working together to deliver to common goals of making data release and use across New Zealand better for everyone.
+subheading: Working together to deliver to common goals of making data release and use across New Zealand better for everyone.
 image: nasa-earth-bg.jpg
 date: 2017-10-09
 ---
