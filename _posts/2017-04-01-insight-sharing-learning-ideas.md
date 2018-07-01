@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Insight - sharing learning and ideas"
-subheading: "A regular 30-40 min forum with speakers talking from the government digital services team"
+title: Insight - sharing learning and ideas
+subheading: A regular 30-40 min forum with speakers talking from the government digital services team
 image: head-insight.jpg
 date: 2017-04-01
 ---
