@@ -13,4 +13,4 @@ defaults:
       path: ""
       type: posts
     values:
-      subtitle: "Test holder"
+      subheading: "Test holder"
