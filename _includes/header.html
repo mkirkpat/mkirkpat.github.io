@@ -66,9 +66,22 @@
         <!-- /.container -->
     </nav>    <!-- Page Header -->
 
-	
 	{% if page.title == "About Mark Kirkpatrick" %}
-	<h1 style="margin-top:300px; color:red">This is the about page</h1>
-	{% elsif page.title == "Mark Kirkpatrick, Wellington NZ" %}
-	<h1 style="margin-top:300px; color:red">This is the home page y'all</h1>
-	{% endif %}
+	<!-- Insert About page heading block -->
+   {% elsif page.title == "Mark Kirkpatrick, Wellington NZ" %}
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url({{ site.baseurl }}/images/{{ page.header-bg-image }})">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                        <h1><a href="https://plus.google.com/u/0/117086849216989266963">
+                         <img src="{{ site.baseurl }}/images/mk.jpg" alt="Mark Kirkpatrick" class="profile"></a></h1>
+                        <hr class="small">
+                        <span class="subheading">{{ page.subheading }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    {% endif %}
