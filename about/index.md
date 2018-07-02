@@ -5,7 +5,6 @@ subheading: Dublin. Belfast. Wellington NZ.
 header-bg-image: about-bg.jpg
 permalink:  /about
 ---
-<h1>{{ page.title }}</h1>
 Originally from Maynooth, Ireland and after living in Belfast for over a decade, Mark is now based in Wellington, New Zealand.
 
 Mark is passionate about creating digital content experiences that delight users.
