@@ -4,10 +4,7 @@ title: Mark Kirkpatrick, Wellington NZ
 subheading: Musings on that wonderful world-wide web.
 header-bg-image: home-bg.jpg
 ---
-    <!-- Main Content -->
-    <div class="container page-content">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
               {% for post in site.posts limit:5 %}
                 <div class="post-preview">
                   <a href="{{ post.url }}">
@@ -18,6 +15,4 @@ header-bg-image: home-bg.jpg
                 </div>
                 <hr>
               {% endfor %}
-            </div>
-        </div>
-    </div>
+
