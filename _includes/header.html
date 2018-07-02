@@ -80,3 +80,9 @@
             </div>
         </div>
     </header>
+	
+	{% if page.title == "About Mark Kirkpatrick" %}
+	<h1>This is the about page</h1>
+{% else %}
+<h1>Thii is NOT the about page</h1>
+{% endif %}
