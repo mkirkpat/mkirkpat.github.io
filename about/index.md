@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  About Mark Kirkpatrick
-subheading: Musings on that wonderful world-wide web.
+subheading: Dublin. Belfast. Wellington NZ.
+header-bg-image: about-bg.jpg
 permalink:  /about
 ---
 <h1>{{ page.title }}</h1>
