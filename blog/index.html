@@ -1,14 +1,16 @@
 ---
 layout: default
 title: Blog posts from Mark Kirkpatrick
-header-bg-image: contact-bg2.jpg
+header-bg-image: contact-bg.jpg
 ---
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
+<div class="post-preview">
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date_to_string }}</span>
   </p>
+</div>
 <hr>
 {% endfor %}
 
