@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Pattesmmrn Library proof of concept for New Zealand government
+title: A Pattern Library proof of concept for New Zealand government
 subheading: Building a model to develop consistent, quality services, easy to use and reuse.
 image: pattern-bg.jpg
 date: 2018-07-10
