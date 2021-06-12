@@ -24,7 +24,7 @@ Digital governance has been described as ["all of the policies and procedures wh
 
 Building out agreed frameworks of control and ownership also helps digital teams 'protect the user' in preventing digital service standards getting hijacked by politics and internal wrangles.
 
-![paper prototype]({{ site.baseurl }}/images/guidance.jpg) <span class="caption text-muted">Begin the process of formulating agreed governance early in any digital project cycle.</span>
+![paper prototype](/images/guidance.jpg) <span class="caption text-muted">Begin the process of formulating agreed governance early in any digital project cycle.</span>
 
 ## Engagement
 
