@@ -27,7 +27,7 @@ It's difficult to reach out to people if you cannot connect with them. Online, t
 
 At a very basic level, one of the ways we interact is through labelling on our sites. It is widely known that users rarely read online as much as you may like them to, but instead are incessantly seeking goal completion opportunities, places for discovery that offer value, immediacy in opportunity and ease in interaction.
 
-[![Charity Water home page]({{ site.baseurl }}/images/charity-water.jpg) ](https://donate.charitywater.org/donate/newyear) <span class="caption text-muted"> The Charity Water site uses clear calls to action labels and compelling, concise copy.</span>
+[![Charity Water home page](/images/charity-water.jpg) ](https://donate.charitywater.org/donate/newyear) <span class="caption text-muted"> The Charity Water site uses clear calls to action labels and compelling, concise copy.</span>
 
 ## Labelling
 
@@ -45,7 +45,7 @@ Is your labelling language the same as your users?….if not, you need to change
 
 A good way of doing this is talking to users - using surveys, workshops, user studies etc. In a context of limited resourcing, one can use free tools such as [Google Trends](https://www.google.com/trends/ "Google Trends") to examine popular terminology terms used by your users - filtering by location, category etc.
 
-[![Google Trends graph shoeing usage of key terms in search - a lot more use the term 'career' than 'employability']({{ site.baseurl }}/images/google-trends.jpg) ](#) <span class="caption text-muted"> For example, a university using ‘employability’ as a heading for a tabbed information area under course details page would reconsider using data findings such as these showing trends over time and location. category etc.</span>
+[![Google Trends graph shoeing usage of key terms in search - a lot more use the term 'career' than 'employability'](/images/google-trends.jpg) ](#) <span class="caption text-muted"> For example, a university using ‘employability’ as a heading for a tabbed information area under course details page would reconsider using data findings such as these showing trends over time and location. category etc.</span>
 
 As well as Google Trends, you can look at search query terms via [Google Analytics](https://analytics.google.com/analytics/web/ "Google Analytics"), and explore the language of your users.
 
