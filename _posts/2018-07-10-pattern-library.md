@@ -36,7 +36,7 @@ This Proof of Concept (working title: 'Tahi’ or ‘One’) is a model for unif
 * Well-documented, easy to reuse patterns/components
 * Faster time to market (e.g. easier prototyping)
 
-![Mark Kirkpatrick presenting at initial Design System work overview in 2018]({{ site.baseurl }}/images/design-system.jpg) Mark Kirkpatrick presenting at government workshop
+![Mark Kirkpatrick presenting at initial Design System work overview in 2018](/images/design-system.jpg) Mark Kirkpatrick presenting at government workshop
 
 We will do further work with agencies and vendors to learn more about pattern library form and function, as well as drafting principles.
 
