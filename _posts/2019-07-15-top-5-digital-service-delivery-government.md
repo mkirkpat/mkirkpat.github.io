@@ -12,7 +12,7 @@ I want to share some key principles that inform our approach in delivering effec
 
 We need to build strong partnerships across government so we can extend reach and/or strengthen our sustainability in realising our vision for better government digital services. We want to further formalise and bolster these partnerships by aligning clearly, explicitly around government strategic objectives. Clearly framing our work as complimentary / supportive of wider objectives, helps us get buy-in both internally, and also from across the complex public service environment.
 
-![whiteboard with post-its on it](img/whiteboard-alt.jpg) <span class="caption text-muted">Build teams that work well together, clear about vision and purpose.</span>
+![whiteboard with post-its on it](/images/whiteboard-alt.jpg) <span class="caption text-muted">Build teams that work well together, clear about vision and purpose.</span>
 
 ## 2\. Data as the driver
 
