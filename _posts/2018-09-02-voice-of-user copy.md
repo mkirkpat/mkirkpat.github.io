@@ -22,7 +22,7 @@ We want to understand more about what users expect (if anything) from government
 
 We are exploring usage trends (e.g. [big changes in voice assistant market share](https://voicebot.ai/2018/07/22/google-assistant-has-51-percent-virtual-assistant-market-share-on-smartphones-according-to-strategy-analytics/)) to determine how that informs content strategy. We are working on structured content so it can be optimal for users now, and ready for future queries, regardless of query method.
 
-![Post-it on whiteboard with words 'what is feasible' and 'structured content' visible](img/post-it.jpg) <span class="caption text-muted">Discovery workshop post-its</span>
+![Post-it on whiteboard with words 'what is feasible' and 'structured content' visible](/images/post-it.jpg) <span class="caption text-muted">Discovery workshop post-its</span>
 
 ## Learning, building
 
