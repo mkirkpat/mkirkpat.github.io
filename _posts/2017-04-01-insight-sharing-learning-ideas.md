@@ -16,7 +16,7 @@ Out of one of our first retro sessions of the year came the realisation that som
 
 Even in the context of the retro / demo cycle that is part of agile delivery, there would still be a need for showcasing (beyond the product team), encouraging us to ‘sell’ to ourselves anything; from our own product features, to industry trends, user behaviour changes and making recommendations based upon knowledge garnered.
 
-[![whiteboard with post its]({{ site.baseurl }}/images/post-retro-whiteboard.jpg) ](#) <span class="caption text-muted">Whiteboard of our retro session in March</span>
+[![whiteboard with post its](/images/post-retro-whiteboard.jpg) ](#) <span class="caption text-muted">Whiteboard of our retro session in March</span>
 
 ## Insight
 
