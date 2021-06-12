@@ -25,7 +25,7 @@ The first day of the Data Customer Insights workshop began with a brief meet, gr
 
 With an ‘all cards on the table’ approach, by the end of the day the workshop team had a fuller understanding of each other’s space - our user groups, the challenges faced - and a growing sense of the opportunities that a more ‘joined-up’ approach to solving common problems could offer.
 
-[![workshop team Mark Kirkpatrick,Cam Findlay, Rachel Davis etc.]({{ site.baseurl }}/images/workshop.jpg) ](#) <span class="caption text-muted">The workshop team on day one</span>
+[![workshop team Mark Kirkpatrick,Cam Findlay, Rachel Davis etc.](/images/workshop.jpg) ](#) <span class="caption text-muted">The workshop team on day one</span>
 
 The teams left the workshop feeling energised and looking forward to the following day
 
@@ -48,7 +48,7 @@ Finally, as a wrap-up the workshop team mapped the various user types identified
 
 By the end of day two all were suitably tired, but positive about the work done, knowledge gleaned and ready to take things to the next level in improving things for data users and suppliers across New Zealand.
 
-[![whiteboard with post its gathered on day one]({{ site.baseurl }}/images/whiteboard.jpg) ](#) <span class="caption text-muted">Whiteboarding on day two</span>
+[![whiteboard with post its gathered on day one](/images/whiteboard.jpg) ](#) <span class="caption text-muted">Whiteboarding on day two</span>
 
 ## The end of the beginning...
 
