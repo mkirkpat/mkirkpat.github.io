@@ -5,36 +5,23 @@ subheading: Dublin. Belfast. Wellington NZ.
 header-bg-image: about-bg.jpg
 permalink:  /about
 ---
-Originally from Maynooth, Ireland and after living in Belfast for over a decade, Mark is now based in Wellington, New Zealand.
 
-Mark is passionate about creating digital content experiences that delight users.
+Kia ora I’m Mark, a Channels Manager working at the New Zealand government Digital Public Service, living in Wellington / Te Whanganui-a-Tara. I grew up in a lively university town called [Maynooth](https://en.wikipedia.org/wiki/Maynooth), just outside Dublin, Ireland, and more recently spent about 12 years in beautiful [Belfast](https://lovebelfast.co.uk/), a few minutes north of Dublin (as an incredibly fast crow flies:)).
+## The strategy is delivery
 
-> [Download Mark Kirkpatrick's CV pdf](assets/cv-mark-kirkpatrick-2017.pdf "Mark Kirkpatrick CV")
+Yes, I am reusing wording from this [pretty awesome book](https://www.amazon.com/Digital-Transformation-Scale-Strategy-Perspectives/dp/1907994785); I *love* digital and through roles in the programme and product space, I advise on how we deliver at pace, better digital services across the public service in Aotearoa/NZ. I have helped set the strategic direction for products and channels, getting agreement across teams;  ensuring consistency, conversion, quality in digital service delivery across the public and private sector.
 
-## Work history
+> [Download Mark Kirkpatrick's CV pdf](cv-mark-kirkpatrick-07-21.pdf "Mark Kirkpatrick CV")
 
-Mark started his career at a web agency handling clients from across Northern Ireland and beyond, developing online platforms for businesses of various sizes.
+It is exciting threading things together with teams, delving into wider strategic imperatives, organisational values, helping teams break this down into work that ultimately delivers. I espouse a passion for great digital experience in its various forms, and devise approaches, put in place the conditions where teams can produce best-build, great design in meeting business and user needs.
+## How we make better
 
-From there, Mark worked with [Housing Rights Service](http://housingrights.org.uk/ "Housing Rights Service") and [The Centre for Cross Border Studies (CCBS)](http://crossborder.ie/ "CCBS") as an Editor, Senior Information Officer respectively and played an important role in pushing online content forward at key growth stages for both organisations.
+Other passions include accessibility, inclusive design, brand, and creative communications. My hobbies include running, music, politics, in that I am passionate about contributing to building better, for current and future generations. 
 
-Mark launched [Border People](http://borderpeople.info/) while at CCBS - working with government departments North and South developing out the first online cross border information channel on the island of Ireland.
+I am currently early on a journey to understand a little more about Te Ao Maori and the richness of the wonderful place where I live. 
 
-## Change management
+You’ll find some older posts here where I’ll be talking randomly about strategy, product, communications, agile ways of working etc. - all personal views of course!  I’ll be posting some more recent thoughts on responsiveness in a 'post-COVID' world and inclusive innovation through July 2021.
 
-Mark spent five years with [Danske Bank](http://www.danskebank.co.uk "Danske Bank ") working with teams in Belfast and Dublin providing engaging online content in an era of change across the financial services sector, with services increasingly being provided via digital channels.
+You can [contact me by email](mailto:markkirkpatrick@gmail.com), or take a [look at my CV](https://mkirkpat.github.io/cv/) for any other details :)
 
-In this role, Mark managed a major strand of change management; the rebranding of the organisation from Northern Bank to Danske Bank in 2012\. Mark led teams in Ireland and Denmark in ensuring the smooth transition in platforms, content and a firm embedding of strategy, values and realignment of focus for the organisation.
-
-## Rebranding
-
-Mark was Digital Communications Manager at [Ulster University](http://www.ulster.ac.uk/) during its recent rebrand. Mark managed the rollout of new single, central digital platforms as well as associated processes in developing and enhancing digital strategy for one of the biggest universities in Ireland.
-
-## New Zealand
-
-Currently, Mark is a Delivery Manager (Digital), working with Government Information Services in Wellington, NZ.
-
-Mark works across a number of projects building engaging digital services for users across New Zealand, as well as supporting the strategic development of the digital agenda for government.
-
-Outside of work Mark enjoys running, soccer, swimming, music as well as keeping a keen eye on politics and is active across community organisations.
-
-He is known to still code on occasion:)...keeping in touch with the oft-changing landscape of digital expression and endeavour; its frameworks, and formats.
+ngā mihi / go raibh maith agat / thanks!
